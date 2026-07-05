@@ -26,9 +26,12 @@ Building CRMs, Cloudflare tooling, and AI agent infrastructure at [Appz Dev Solu
 
 ---
 
-## Stats
-
-![AppzDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=getappz&show_icons=true&hide_title=true&count_private=true&theme=default)
+<!--
+  github-readme-stats shared Vercel instance frequently down.
+  To fix: fork https://github.com/anuraghazra/github-readme-stats
+  and deploy on your own Vercel. Then uncomment below and replace URL.
+-->
+<!-- ![AppzDev's GitHub stats](https://your-own-deploy.vercel.app/api?username=getappz&show_icons=true&hide_title=true&count_private=true&theme=default) -->
 
 ---
 
